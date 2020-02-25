@@ -1,14 +1,14 @@
-<h1 align="center">
-  <img alt="Fastfeet" title="Fastfeet" src=".github/logo.png" width="300px" />
-</h1>
+# README
 
-<blockquote align="center">Desafio para conclusão do Bootcampo da Rocketseat</blockquote>
+##  ![Fastfeet](.gitbook/assets/logo.png)
 
-<h2>README em construção</h2>
+> Desafio para conclusão do Bootcampo da Rocketseat
 
-<h3><strong>Tecnologias utilizadas</strong></h3>w
-<ul>
-  <li><a href="node.org"> Node </a> (12.13.1) </li>
-  <li><a href="node.org"> Npm </a> (6.12.1) </li>
-  <li><a href="node.org"> Yarn </a> (1.19.1) </li>
-</ul>
+### README em construção
+
+**Tecnologias utilizadas**
+
+*  [Node](https://github.com/albino29/rocketseat-bootcamp/tree/6107a3f0dbd36b410658cdb2946725a0285d481c/node.org) \(12.13.1\)
+*  [Npm](https://github.com/albino29/rocketseat-bootcamp/tree/6107a3f0dbd36b410658cdb2946725a0285d481c/node.org) \(6.12.1\)
+*  [Yarn](https://github.com/albino29/rocketseat-bootcamp/tree/6107a3f0dbd36b410658cdb2946725a0285d481c/node.org) \(1.19.1\)
+
